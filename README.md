@@ -22,3 +22,6 @@ Install the openai library using pip:
 - Ensure your local LLM server is running and accessible at http://localhost:1234/v1.
 - Run the script: python terminal_assistant.py
 - Start chatting with Jarvis by typing your messages and pressing Enter.
+
+## Learning Purpose
+All scripts and projects in this repository are created for learning purposes. They are designed to help understand and explore different programming concepts and libraries.
